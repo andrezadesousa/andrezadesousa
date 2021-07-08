@@ -1,4 +1,4 @@
-## Hello everyone :wave: :vulcan_salute: 
+## Hello everyone :wave:
 
 <!--
 **andrezadesousa/andrezadesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
