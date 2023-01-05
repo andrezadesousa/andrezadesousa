@@ -1,4 +1,11 @@
-## Hello, everyone! :wave: I'm Andreza 
+## Hello, everyone! :wave:
+### My name's Andreza and I'm Front-end developer
+
+I have a degree in Information Technology Management, but I am passionate about web development. Allocated in different projects, both mobile and web, I had the opportunity to learn about technologies such as: React, React Native, JavaScript, NodeJS, Angular, TypeScript and Puppeteer. 
+
+### A future design engineer💙
+
+![Image](https://github.com/andrezadesousa/andrezadesousa/blob/main/assests/image/image-profile.gif)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa)](https://github.com/andrezadesousa/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa&hide=contribs,prs) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true) -->
