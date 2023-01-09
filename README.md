@@ -1,14 +1,24 @@
-## Olá, pessoa! :wave:
+<!-- ## Olá, pessoa! :wave: -->
 
-### Andreza Sousa | Desenvolvedora Front-end 
 
-A future design engineer💙
+## Olá, eu sou a Andreza! | Desenvolvedora Front-end  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center">
+### Um pouco sobre mim
+<div style="display: inline_block"  >
+<img align="right" width="250" height="250" style="border-radius:30px;" src="hello.gif" />
+<p> - 👨‍💻 Desenvolvedora Front-edn Jr </p>
+<p> - 👨‍🎓 Formado em Gestão da Tecnologia da Informação </p>
+<p> - 🎯 Interesse: Design Engineer | RactJs, ReactNative, Angular, JavaScript, NodeJs e TypeScript, Html5, Css e Sass. </p>
+<p> - 🦊 Quando me perguntavam: O que você quer ser? Sempre respondia que seria piloto de avião apaixonada pela tecnologia. Mas quem disse que não posso ser uma desenvolvedora apaixonada pela aviação? haha </p>
+<p> - 🎮 Amo jogar The Sims e você? 💙 </p>
+  
+</div>
+
+<!-- <p align="center">
   <a href="#">
     <img align="center" width="450" src="dev.gif" />
   </a>
-</p>
+</p> -->
 
 </br></br>
 <div align="center">
@@ -18,21 +28,9 @@ A future design engineer💙
 </div>
 <br>  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=radical) -->
-</br></br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact)](https://github.com/andrezadesousa/github-readme-stats) -->
-</br></br>
-## Olá, eu sou a Andreza! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Um pouco sobre mim
-<div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="hello.gif" />
-<p> - 👨‍💻 Desenvolvedora Front-edn Jr </p>
-<p> - 👨‍🎓 Formado em Gestão da Tecnologia da Informação </p>
-<p> - 🎯 Interesse: Design Engineer | RactJs, ReactNative, Angular, JavaScript, NodeJs e TypeScript, Html5, Css e Sass. </p>
-<p> - 🦊 Quando me perguntavam: O que você quer ser? Sempre respondia que seria piloto de avião apaixonada pela tecnologia. Mas quem disse que não posso ser uma desenvolvedora apaixonada pela aviação? haha </p>
-<p> - 🎮 Amo jogar The Sims e você? hahaha </p>
-  
-</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact)](https://github.com/andrezadesousa/github-readme-stats) -->
+
 
 ## Minhas skills :nerd_face:
 <div align="center">
