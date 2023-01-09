@@ -11,9 +11,15 @@ A future design engineer💙
 </p>
 
 </br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/andrezadesousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br>  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=radical) -->
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact)](https://github.com/andrezadesousa/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact)](https://github.com/andrezadesousa/github-readme-stats) -->
 </br></br>
 ## Olá, eu sou a Andreza! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
