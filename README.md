@@ -8,13 +8,14 @@
   <p> - 🎯 Interesse: Design Engineer | RactJs, ReactNative, Angular, JavaScript, NodeJs, TypeScript, Html5, Css, Sass,  Tailwindcss & Figma. </p>
   <p> - 🦊 Quando me perguntavam: O que você quer ser? Sempre respondia que seria piloto de avião apaixonada por      tecnologia. Mas quem disse que não posso ser uma desenvolvedora apaixonada por aviação? </p>
   <p> - 🎮 Amo jogar The Sims e você? 💙 </p>
-  
-  <div align="center">
+ 
+</div>
+
+<div align="center">
     <a href="https://github.com/andrezadesousa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
-</div>
   
 ## Minhas skills
 <div style="display: inline_block">
