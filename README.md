@@ -3,7 +3,7 @@
 ### Um pouco sobre mim
 <div style="display: inline_block">
   <img align="right" width="250" height="250" style="border-radius:30px;" src="hello.gif" />
-  <p> - 👨‍💻 Desenvolvedora Front-end Jr </p>
+  <p> - 👨‍💻 Desenvolvedora Web </p>
   <p> - 👨‍🎓 Formada em Gestão da Tecnologia da Informação </p>
   <p> - 🎯 Interesse: Design Engineer | RactJs, ReactNative, Angular, JavaScript, NodeJs, TypeScript, Html5, Css, Sass,  Tailwindcss & Figma. </p>
   <p> - 🦊 Quando me perguntavam: O que você quer ser? Sempre respondia que seria piloto de avião apaixonada por      tecnologia. Mas quem disse que não posso ser uma desenvolvedora apaixonada por aviação? </p>
