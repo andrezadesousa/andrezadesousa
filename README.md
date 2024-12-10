@@ -2,7 +2,10 @@
 
 ### Um pouco sobre mim
 <div style="display: inline_block">
-  <img align="right" width="250" height="250" style="border-radius:30px;" src="hello.gif" />
+<!--   <img align="right" width="250" height="250" style="border-radius:30px;" src="hello.gif" /> -->
+  <a href="https://app.daily.dev/andrezasousa">
+    <img src="https://api.daily.dev/devcards/v2/tH0sxp8yOnfuWebOJDVQM.png?r=480&type=default"  align="right" width="356" alt="Andreza Sousa's Dev Card"/>
+  </a>
   <p> - 👨‍💻 Desenvolvedora Web </p>
   <p> - 👨‍🎓 Formada em Gestão da Tecnologia da Informação </p>
   <p> - 🎯 Interesse: Design Engineer | RactJs, React Native, TypeScript & Figma. </p>
@@ -14,9 +17,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezadesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezadesousa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
 </div>
 
+<div>
+  
+</div>
 
   
 ## Minhas skills
